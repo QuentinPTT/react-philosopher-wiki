@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Aristote",
+    "description": "Philosophe grec",
+    "biography": "Aristote est l'un des plus célèbres philosophes de la Grèce antique. Il a été l'élève de Platon et a fondé sa propre école, le Lycée. Aristote a écrit sur un large éventail de sujets, notamment la politique, l'éthique, la métaphysique et la logique."
+  },
+  {
+    "id": 2,
+    "name": "Socrate",
+    "description": "Philosophe grec",
+    "biography": "Socrate est un philosophe grec qui a vécu à Athènes au 5ème siècle avant JC. Il est surtout connu pour sa méthode de questionnement, connue sous le nom de « maïeutique », qui visait à amener les gens à découvrir la vérité par eux-mêmes. Socrate a été condamné à mort pour impiété et corruption de la jeunesse."
+  },
+  {
+    "id": 3,
+    "name": "Friedrich Nietzsche",
+    "description": "Philosophe allemand",
+    "biography": "Friedrich Nietzsche est un philosophe allemand du 19ème siècle connu pour ses critiques de la religion et de la moralité traditionnelle. Il a également proposé des concepts tels que la volonté de puissance et le surhomme, qui ont eu une influence considérable sur la philosophie, la littérature et la culture occidentales."
+  }
+]
