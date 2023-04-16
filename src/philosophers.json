@@ -1,20 +1,65 @@
 [
   {
     "id": 1,
-    "name": "Aristote",
-    "description": "Philosophe grec",
-    "biography": "Aristote est l'un des plus célèbres philosophes de la Grèce antique. Il a été l'élève de Platon et a fondé sa propre école, le Lycée. Aristote a écrit sur un large éventail de sujets, notamment la politique, l'éthique, la métaphysique et la logique."
+    "name": "Friedrich Nietzsche",
+    "description": "Philosophe allemand",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Portrait_of_Friedrich_Nietzsche.jpg",
+    "bio": "La pensée de Nietzsche est complexe et multidimensionnelle, mais elle est souvent associée à la critique de la moralité et de la religion occidentales, ainsi qu'à la promotion de la créativité, de l'individualisme et de l'expression de soi. Voici quelques-unes des principales idées de Nietzsche : \n\nLa mort de Dieu : Nietzsche croyait que l'essor de la science et de la raison avait rendu la croyance en Dieu obsolète, ce qui avait des implications profondes pour la morale et la vie humaine en général.\n\nLa volonté de puissance : Nietzsche a développé l'idée que la vie est motivée par une force fondamentale qu'il appelait la volonté de puissance, qui peut être comprise comme une énergie vitale qui pousse les individus à chercher à se réaliser pleinement.\n\nL'Ubermensch : Nietzsche a créé le concept de l'Übermensch, qui est souvent traduit par surhomme ou superhomme. Cet idéal représente l'individu qui se dépasse lui-même en se libérant des limites imposées par la société et en réalisant pleinement sa volonté de puissance.\n\nLa critique de la morale : Nietzsche a remis en question la morale traditionnelle de l'Occident, affirmant que les valeurs telles que la compassion, l'altruisme et la modestie étaient en fait des formes de faiblesse et de décadence qui empêchaient les individus de se réaliser pleinement.\n\nLa perspectivisme : Nietzsche a soutenu que la vérité est relative et dépendante du point de vue individuel, et que chaque individu doit développer sa propre perspective sur la vie et sur le monde pour trouver son propre sens.\n\nCes idées ont eu une influence considérable sur la philosophie, la psychologie, la littérature et les arts, et ont inspiré de nombreux mouvements intellectuels et culturels au XXe siècle. Cependant, il convient de noter que la pensée de Nietzsche est également controversée et a été interprétée de différentes manières."
   },
   {
     "id": 2,
     "name": "Socrate",
     "description": "Philosophe grec",
-    "biography": "Socrate est un philosophe grec qui a vécu à Athènes au 5ème siècle avant JC. Il est surtout connu pour sa méthode de questionnement, connue sous le nom de « maïeutique », qui visait à amener les gens à découvrir la vérité par eux-mêmes. Socrate a été condamné à mort pour impiété et corruption de la jeunesse."
+    "image": "https://www.meisterdrucke.fr/kunstwerke/1200w/Unknown_Artist_-_Portrait_of_Socrates_(470-399_BC)_Greek_philosopher_19th_century_engraving_-_(MeisterDrucke-986054).jpg",
+    "bio": "Socrate est considéré comme l'un des plus grands philosophes de l'Antiquité grecque. Cependant, il n'a pas laissé d'écrits, et la plupart de ses idées ont été transmises par ses disciples, en particulier Platon. Voici quelques-unes des principales idées de la pensée de Socrate :\n\nLa connaissance de soi : Socrate affirmait que la sagesse commence par la connaissance de soi, et que l'on ne peut pas être sage sans savoir qui l'on est et ce que l'on veut.\n\nLa méthode socratique : Socrate a élaboré une méthode de questionnement appelée la méthode socratique, qui consiste à poser des questions pour aider les gens à découvrir la vérité par eux-mêmes. Cette méthode visait à faire prendre conscience aux individus de leurs propres contradictions et à les amener à remettre en question leurs propres opinions.\n\nLa vertu : Socrate croyait que la vertu était la clé d'une vie heureuse et réussie. Il affirmait que la vertu peut être enseignée et apprise, et qu'elle est accessible à tous les êtres humains.\n\nLa critique de la démocratie : Socrate était critique envers la démocratie, affirmant que la majorité ne détient pas nécessairement la vérité et que les décisions importantes devraient être prises par des experts plutôt que par des politiciens élus.\n\nLa mort : Socrate a été condamné à mort pour impiété et corruption de la jeunesse. Au moment de sa mort, il a refusé de fuir ou de renoncer à ses convictions, affirmant que la mort n'est pas une fin en soi et que l'âme est immortelle.\n\nLa pensée de Socrate a eu une influence considérable sur la philosophie, en particulier sur la méthode socratique, qui a influencé la manière dont la philosophie est enseignée et pratiquée encore aujourd'hui. Sa quête de la vérité, sa critique de la démocratie et son courage face à la mort ont également inspiré de nombreux penseurs et citoyens au fil des siècles."
   },
   {
     "id": 3,
-    "name": "Friedrich Nietzsche",
+    "name": "Aristote",
+    "description": "Philosophe grec",
+    "image": "https://www.herodote.net/_images/Aristotebuste_epoque_romaine.png",
+    "bio": "Aristote est considéré comme l'un des plus grands philosophes de l'Antiquité grecque. Sa pensée couvre un large éventail de domaines, y compris la logique, la métaphysique, l'éthique, la politique et la biologie. Voici quelques-unes des principales idées de la pensée d'Aristote :\n\nLa logique : Aristote est connu pour avoir développé le syllogisme, une forme de raisonnement logique qui a influencé la philosophie occidentale pendant des siècles. Il a également élaboré une théorie de la catégorisation, divisant les choses en catégories en fonction de leur nature et de leurs propriétés.\n\nLa métaphysique : Aristote a cherché à comprendre la nature de l'existence et de la réalité, affirmant que tout ce qui existe a une cause et que chaque chose a une essence ou une nature qui la définit.\n\nL'éthique : Pour Aristote, la vertu est une habitude acquise par la pratique, et non une qualité innée. Il a également élaboré une théorie de l'amitié, affirmant que l'amitié véritable est fondée sur la vertu et le respect mutuel.\n\nLa politique : Aristote a développé une théorie de la citoyenneté et de l'État, affirmant que l'État est un organisme vivant composé de citoyens qui ont des droits et des devoirs. Il a également défendu l'idée que la politique devrait viser à promouvoir le bien commun plutôt que les intérêts particuliers.\n\nLa biologie : Aristote est considéré comme le fondateur de la biologie en tant que discipline scientifique. Il a observé et classé les organismes vivants, étudiant leur anatomie, leur physiologie et leur comportement.\n\nLa pensée d'Aristote a eu une influence considérable sur la philosophie, la science et la politique occidentales. Sa méthode rigoureuse et sa recherche de la vérité ont inspiré de nombreux penseurs au fil des siècles."
+  },
+  {
+    "id": 4,
+    "name": "Platon",
+    "description": "Philosophe grec",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Plato_Pio-Clemetino_Inv305.jpg",
+    "bio": ""
+  },
+  {
+    "id": 5,
+    "name": "Descartes",
+    "description": "Philosophe français",
+    "image": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcScvbfo1uxwSbJ4Ur65jgq2xX5ROjtao-UztCA5R_N0-x6Xr1PWHD6nST_CoDmMWIoh",
+    "bio": ""
+  },
+  {
+    "id": 6,
+    "name": "Kant",
     "description": "Philosophe allemand",
-    "biography": "Friedrich Nietzsche est un philosophe allemand du 19ème siècle connu pour ses critiques de la religion et de la moralité traditionnelle. Il a également proposé des concepts tels que la volonté de puissance et le surhomme, qui ont eu une influence considérable sur la philosophie, la littérature et la culture occidentales."
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Kant_gemaelde_3.jpg/800px-Kant_gemaelde_3.jpg",
+    "bio": ""
+  },
+  {
+    "id": 7,
+    "name": "Michel Foucault",
+    "description": "Philosophe français",
+    "image": "https://www.philomag.com/sites/default/files/styles/sidebar_full_image/public/images/michel-foucault_michel-_opaleplus.opale14266_01.jpg",
+    "bio": ""
+  },
+  {
+    "id": 8,
+    "name": "Jean-Paul Sartre",
+    "description": "Philosophe allemand",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flickr_-_Government_Press_Office_%28GPO%29_-_Jean_Paul_Sartre_and_Simone_De_Beauvoir_welcomed_by_Avraham_Shlonsky_and_Leah_Goldberg_%28cropped%29.jpg",
+    "bio": ""
+  },
+  {
+    "id": 9,
+    "name": "Simone de Beauvoir",
+    "description": "Philosophe française",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Simone_de_Beauvoir2.png",
+    "bio": ""
   }
 ]
